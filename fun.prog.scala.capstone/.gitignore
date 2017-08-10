@@ -1,0 +1,10 @@
+workspace.xml
+target/
+
+observatory/.idea/libraries/
+observatory/src/main/resources/
+
+sandbox/.idea/libraries/
+*.csv
+
+
