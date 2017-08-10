@@ -1,0 +1,5 @@
+{"id": 0, "firstName": "Andrei", "lastName": "Popescu", "age": 30, "address": "Bucharest" }
+{"id": 1, "firstName": "Ion", "lastName": "Georgescu", "age": 28, "address": "Ploiesti" }
+{"id": 2, "firstName": "Radu", "lastName": "Ionescu", "age": 55, "address": null }
+{"id": 3, "firstName": "Gigi", "lastName": "Dudu", "age": 10, "address": "Constanta" }
+
